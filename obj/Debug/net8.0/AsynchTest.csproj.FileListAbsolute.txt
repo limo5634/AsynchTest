@@ -1,0 +1,14 @@
+H:\dotNet\dotnet-course-code\AsynchTest\bin\Debug\net8.0\AsynchTest.exe
+H:\dotNet\dotnet-course-code\AsynchTest\bin\Debug\net8.0\AsynchTest.deps.json
+H:\dotNet\dotnet-course-code\AsynchTest\bin\Debug\net8.0\AsynchTest.runtimeconfig.json
+H:\dotNet\dotnet-course-code\AsynchTest\bin\Debug\net8.0\AsynchTest.dll
+H:\dotNet\dotnet-course-code\AsynchTest\bin\Debug\net8.0\AsynchTest.pdb
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.AssemblyInfoInputs.cache
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.AssemblyInfo.cs
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.csproj.CoreCompileInputs.cache
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.dll
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\refint\AsynchTest.dll
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.pdb
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\AsynchTest.genruntimeconfig.cache
+H:\dotNet\dotnet-course-code\AsynchTest\obj\Debug\net8.0\ref\AsynchTest.dll
